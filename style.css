@@ -1,0 +1,26 @@
+body {
+    margin-left: 200px;
+    background: green url("img_tree.png") no-repeat top left;
+  }
+  h1 {
+    color: red;
+    }
+  .center_div {
+    border: 1px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #d0f0f6;
+    text-align: left;
+    padding: 8px;
+  }
+
+.img-llanes {
+  width: 340px;
+  height: 340px;
+} 
+
+.img-revs {
+  width: 340px;
+  height: 340px;
+}
